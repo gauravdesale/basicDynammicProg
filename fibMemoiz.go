@@ -1,5 +1,5 @@
 package main
-import "fmt"
+import ("fmt")
 
 func checkTable(a int) int {
 	var lookUp [100]int
@@ -13,6 +13,4 @@ func checkTable(a int) int {
 	return 0
 }
 
-func addToArrays(newIndex int, newValue int) int {
-
-}
+//continue to add to this two more functions
